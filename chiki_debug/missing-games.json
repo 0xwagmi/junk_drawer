@@ -1,0 +1,854 @@
+[
+  {
+    "communityId": 52164,
+    "name": "007 First Light (Beta)"
+  },
+  {
+    "communityId": 51887,
+    "name": "A Difficult Game About Climbing"
+  },
+  {
+    "communityId": 40284,
+    "name": "Across the Obelisk"
+  },
+  {
+    "communityId": 51920,
+    "name": "AirportSim"
+  },
+  {
+    "communityId": 49882,
+    "name": "Alien: Isolation"
+  },
+  {
+    "communityId": 47521,
+    "name": "Amnesia: Rebirth"
+  },
+  {
+    "communityId": 51809,
+    "name": "Amnesia: The Bunker"
+  },
+  {
+    "communityId": 51756,
+    "name": "Apewar"
+  },
+  {
+    "communityId": 51572,
+    "name": "Apex Legends"
+  },
+  {
+    "communityId": 51800,
+    "name": "Arcadegeddon"
+  },
+  {
+    "communityId": 17266,
+    "name": "Arma 3"
+  },
+  {
+    "communityId": 52172,
+    "name": "Assassin's Creed IV Black Flag Resynced"
+  },
+  {
+    "communityId": 51933,
+    "name": "Avatar: Frontiers of Pandora"
+  },
+  {
+    "communityId": 51889,
+    "name": "Backpack Battles"
+  },
+  {
+    "communityId": 51781,
+    "name": "BattleBit Remastered"
+  },
+  {
+    "communityId": 51707,
+    "name": "Battlefield™ 2042"
+  },
+  {
+    "communityId": 51466,
+    "name": "Beer Factory"
+  },
+  {
+    "communityId": 51944,
+    "name": "Black Myth: Wukong"
+  },
+  {
+    "communityId": 52150,
+    "name": "Borderlands 4"
+  },
+  {
+    "communityId": 26242,
+    "name": "Boundary"
+  },
+  {
+    "communityId": 2928,
+    "name": "Brawlhalla"
+  },
+  {
+    "communityId": 7087,
+    "name": "Brick Rigs"
+  },
+  {
+    "communityId": 17536,
+    "name": "Bright Memory: Infinite"
+  },
+  {
+    "communityId": 51863,
+    "name": "BUCKSHOT ROULETTE"
+  },
+  {
+    "communityId": 1754,
+    "name": "Burnout™ Paradise Remastered"
+  },
+  {
+    "communityId": 51758,
+    "name": "Caliber"
+  },
+  {
+    "communityId": 51977,
+    "name": "Call of Duty: Warzone"
+  },
+  {
+    "communityId": 17366,
+    "name": "Call of Juarez: Gunslinger"
+  },
+  {
+    "communityId": 51875,
+    "name": "Call of the Wild: The Angler"
+  },
+  {
+    "communityId": 52137,
+    "name": "Castle Crashers"
+  },
+  {
+    "communityId": 52121,
+    "name": "Cloudheim"
+  },
+  {
+    "communityId": 6670,
+    "name": "Conan Exiles"
+  },
+  {
+    "communityId": 46112,
+    "name": "Crab Champions"
+  },
+  {
+    "communityId": 51827,
+    "name": "Cricket 24"
+  },
+  {
+    "communityId": 52128,
+    "name": "Crimson Desert"
+  },
+  {
+    "communityId": 51906,
+    "name": "Crusader Kings III"
+  },
+  {
+    "communityId": 15054,
+    "name": "Crysis 2 Remastered"
+  },
+  {
+    "communityId": 51789,
+    "name": "DAVE THE DIVER"
+  },
+  {
+    "communityId": 51796,
+    "name": "Dead Island 2"
+  },
+  {
+    "communityId": 37591,
+    "name": "DEAD OR ALIVE Xtreme Venus Vacation"
+  },
+  {
+    "communityId": 11187,
+    "name": "Dead Space Re"
+  },
+  {
+    "communityId": 51821,
+    "name": "DeadPool"
+  },
+  {
+    "communityId": 52122,
+    "name": "DEATH STRANDING 2: ON THE BEACH"
+  },
+  {
+    "communityId": 52173,
+    "name": "DEATHLOOP"
+  },
+  {
+    "communityId": 19850,
+    "name": "Deep Rock Galactic"
+  },
+  {
+    "communityId": 51802,
+    "name": "Demonologist"
+  },
+  {
+    "communityId": 52125,
+    "name": "Diablo II: Resurrected – Infernal Edition"
+  },
+  {
+    "communityId": 51834,
+    "name": "Diablo® IV"
+  },
+  {
+    "communityId": 52154,
+    "name": "Digimon Story Time Stranger"
+  },
+  {
+    "communityId": 52119,
+    "name": "DOOM The Dark Ages"
+  },
+  {
+    "communityId": 51787,
+    "name": "DRAGON BALL XENOVERSE1"
+  },
+  {
+    "communityId": 51880,
+    "name": "Dragon's Dogma 2"
+  },
+  {
+    "communityId": 51815,
+    "name": "EA SPORTS FC™ 24"
+  },
+  {
+    "communityId": 51960,
+    "name": "EA SPORTS FC™ 25"
+  },
+  {
+    "communityId": 52055,
+    "name": "EA SPORTS FC™ 26"
+  },
+  {
+    "communityId": 52170,
+    "name": "EA SPORTS WRC"
+  },
+  {
+    "communityId": 52165,
+    "name": "EA SPORTS™ Madden NFL 26"
+  },
+  {
+    "communityId": 51870,
+    "name": "Enshrouded"
+  },
+  {
+    "communityId": 52064,
+    "name": "Escape From Duckov"
+  },
+  {
+    "communityId": 51919,
+    "name": "F1® 24"
+  },
+  {
+    "communityId": 51903,
+    "name": "Fallout 4"
+  },
+  {
+    "communityId": 49674,
+    "name": "Far Cry® 4"
+  },
+  {
+    "communityId": 36655,
+    "name": "Fernbus Simulator"
+  },
+  {
+    "communityId": 35972,
+    "name": "Figment"
+  },
+  {
+    "communityId": 38538,
+    "name": "Fishing Planet"
+  },
+  {
+    "communityId": 86,
+    "name": "For The King"
+  },
+  {
+    "communityId": 2,
+    "name": "Forza Motorsport"
+  },
+  {
+    "communityId": 52115,
+    "name": "Free Fire (Mobile Game)"
+  },
+  {
+    "communityId": 51725,
+    "name": "Fresh Start Cleaning Simulator"
+  },
+  {
+    "communityId": 51788,
+    "name": "Garten of Banban"
+  },
+  {
+    "communityId": 37580,
+    "name": "Generation Zero®"
+  },
+  {
+    "communityId": 52095,
+    "name": "Genshin Impact (Mobile Game)"
+  },
+  {
+    "communityId": 51915,
+    "name": "Ghost of Tsushima"
+  },
+  {
+    "communityId": 51712,
+    "name": "Ghost Watchers"
+  },
+  {
+    "communityId": 51835,
+    "name": "Ghostrunner 2"
+  },
+  {
+    "communityId": 51957,
+    "name": "God of War Ragnarök"
+  },
+  {
+    "communityId": 41299,
+    "name": "Goose Goose Duck"
+  },
+  {
+    "communityId": 51754,
+    "name": "GRID Legends"
+  },
+  {
+    "communityId": 24965,
+    "name": "GTA IV: The Complete Edition"
+  },
+  {
+    "communityId": 51535,
+    "name": "GTA San Andreas Definitive Edition"
+  },
+  {
+    "communityId": 44898,
+    "name": "GTA V & GTA V OL"
+  },
+  {
+    "communityId": 51606,
+    "name": "GTA: San Andreas"
+  },
+  {
+    "communityId": 48185,
+    "name": "GTFO"
+  },
+  {
+    "communityId": 19230,
+    "name": "GUILTY GEAR -STRIVE-"
+  },
+  {
+    "communityId": 51854,
+    "name": "Gym Simulator 24"
+  },
+  {
+    "communityId": 52096,
+    "name": "Honkai:Star Rail (Mobile Game)"
+  },
+  {
+    "communityId": 52116,
+    "name": "Honor of Kings (Mobile Game)"
+  },
+  {
+    "communityId": 51892,
+    "name": "Horizon Forbidden West™ Complete Edition"
+  },
+  {
+    "communityId": 51974,
+    "name": "Hot Wheels Monster Trucks: Stunt Mayhem"
+  },
+  {
+    "communityId": 51860,
+    "name": "House Flipper 2"
+  },
+  {
+    "communityId": 41567,
+    "name": "In Sound Mind"
+  },
+  {
+    "communityId": 51988,
+    "name": "Indiana Jones and the Great Circle"
+  },
+  {
+    "communityId": 28537,
+    "name": "Insurgency: Sandstorm"
+  },
+  {
+    "communityId": 51685,
+    "name": "JoJo's Bizarre Adventure: All-Star Battle R"
+  },
+  {
+    "communityId": 52111,
+    "name": "Jurassic World Evolution 3"
+  },
+  {
+    "communityId": 51927,
+    "name": "KINGDOM HEARTS III + Re Mind (DLC)"
+  },
+  {
+    "communityId": 51976,
+    "name": "Kong: Survivor Instinct"
+  },
+  {
+    "communityId": 5765,
+    "name": "Lawn Mowing Simulator"
+  },
+  {
+    "communityId": 52153,
+    "name": "LEGO Batman Legacy of the Dark Knight"
+  },
+  {
+    "communityId": 51888,
+    "name": "LEGO® 2K Drive"
+  },
+  {
+    "communityId": 30420,
+    "name": "LEGO® Jurassic World"
+  },
+  {
+    "communityId": 51851,
+    "name": "Lethal Company"
+  },
+  {
+    "communityId": 51525,
+    "name": "Life is Strange 1 Remastered"
+  },
+  {
+    "communityId": 52147,
+    "name": "Life is Strange: Reunion"
+  },
+  {
+    "communityId": 51783,
+    "name": "Little Kitty, Big City"
+  },
+  {
+    "communityId": 51969,
+    "name": "LOLLIPOP CHAINSAW RePOP"
+  },
+  {
+    "communityId": 51807,
+    "name": "Lonely Mountains: Downhill"
+  },
+  {
+    "communityId": 51831,
+    "name": "Lords Of The Fallen™"
+  },
+  {
+    "communityId": 29848,
+    "name": "Mad Max"
+  },
+  {
+    "communityId": 51810,
+    "name": "Madden NFL 24"
+  },
+  {
+    "communityId": 19686,
+    "name": "Mafia 2: Definitive Edition"
+  },
+  {
+    "communityId": 19685,
+    "name": "Mafia III"
+  },
+  {
+    "communityId": 52151,
+    "name": "Mafia: The Old Country"
+  },
+  {
+    "communityId": 51825,
+    "name": "METAL GEAR SOLID V: THE PHANTOM PAIN "
+  },
+  {
+    "communityId": 51972,
+    "name": "Metaphor: ReFantazio"
+  },
+  {
+    "communityId": 1757,
+    "name": "Mirror's Edge™ Catalyst"
+  },
+  {
+    "communityId": 52113,
+    "name": "Mobile Legends: Bang Bang (Mobile Game)"
+  },
+  {
+    "communityId": 52131,
+    "name": "Moilbe Games"
+  },
+  {
+    "communityId": 52123,
+    "name": "Monster Hunter Stories 3: Twisted Reflection"
+  },
+  {
+    "communityId": 52132,
+    "name": "Monster Hunter Wilds"
+  },
+  {
+    "communityId": 48865,
+    "name": "MORDHAU"
+  },
+  {
+    "communityId": 51822,
+    "name": "Mortal Kombat 1"
+  },
+  {
+    "communityId": 51793,
+    "name": "My Friendly Neighborhood"
+  },
+  {
+    "communityId": 51580,
+    "name": "MY HERO ULTRA RUMBLE"
+  },
+  {
+    "communityId": 51524,
+    "name": "NBA 2K17"
+  },
+  {
+    "communityId": 9071,
+    "name": "NBA 2K19"
+  },
+  {
+    "communityId": 10683,
+    "name": "NBA 2K20"
+  },
+  {
+    "communityId": 42803,
+    "name": "NBA 2K21"
+  },
+  {
+    "communityId": 36189,
+    "name": "NBA 2K25"
+  },
+  {
+    "communityId": 51842,
+    "name": "Nickelodeon All-Star Brawl 2"
+  },
+  {
+    "communityId": 51971,
+    "name": "Old Market Simulator"
+  },
+  {
+    "communityId": 51905,
+    "name": "ONE PIECE: Kaizoku Musou 4"
+  },
+  {
+    "communityId": 25222,
+    "name": "Ori and the Will of the Wisps"
+  },
+  {
+    "communityId": 51806,
+    "name": "Overwatch® 2"
+  },
+  {
+    "communityId": 51879,
+    "name": "Pacific Drive"
+  },
+  {
+    "communityId": 26752,
+    "name": "Paint the Town Red"
+  },
+  {
+    "communityId": 51578,
+    "name": "Palworld"
+  },
+  {
+    "communityId": 4709,
+    "name": "Pamali: Indonesian Folklore Horror"
+  },
+  {
+    "communityId": 51824,
+    "name": "Party Animals"
+  },
+  {
+    "communityId": 52118,
+    "name": "PERSONA 3 RELOAD"
+  },
+  {
+    "communityId": 52144,
+    "name": "PRAGMATA"
+  },
+  {
+    "communityId": 22294,
+    "name": "Prey"
+  },
+  {
+    "communityId": 52129,
+    "name": "Prince of Persia: The Lost Crown"
+  },
+  {
+    "communityId": 52138,
+    "name": "Project Zomboid"
+  },
+  {
+    "communityId": 52114,
+    "name": "PUBG Mobile (Mobile Game)"
+  },
+  {
+    "communityId": 48578,
+    "name": "RAGE 2"
+  },
+  {
+    "communityId": 51612,
+    "name": "Red Dead Online"
+  },
+  {
+    "communityId": 51978,
+    "name": "Red Dead Redemption"
+  },
+  {
+    "communityId": 48260,
+    "name": "Red Dead Redemption 2"
+  },
+  {
+    "communityId": 51765,
+    "name": "Redfall"
+  },
+  {
+    "communityId": 51801,
+    "name": "Remnant 2"
+  },
+  {
+    "communityId": 17422,
+    "name": "Resident Evil 6"
+  },
+  {
+    "communityId": 52110,
+    "name": "Resident Evil Requiem"
+  },
+  {
+    "communityId": 43499,
+    "name": "Risk of Rain 2"
+  },
+  {
+    "communityId": 5596,
+    "name": "Road 96 �️"
+  },
+  {
+    "communityId": 35738,
+    "name": "Road Redemption"
+  },
+  {
+    "communityId": 17609,
+    "name": "Russian Fishing 4"
+  },
+  {
+    "communityId": 51986,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+  },
+  {
+    "communityId": 1779,
+    "name": "Sea of Thieves"
+  },
+  {
+    "communityId": 45788,
+    "name": "Second Extinction™"
+  },
+  {
+    "communityId": 51921,
+    "name": "Senua’s Saga: Hellblade II"
+  },
+  {
+    "communityId": 52126,
+    "name": "Serious Sam 4"
+  },
+  {
+    "communityId": 52130,
+    "name": "Sid Meier's Civilization VII"
+  },
+  {
+    "communityId": 51993,
+    "name": "Six Days in Fallujah"
+  },
+  {
+    "communityId": 52100,
+    "name": "Soul Knight (Mobile Game)"
+  },
+  {
+    "communityId": 14671,
+    "name": "Spec Ops: The Line"
+  },
+  {
+    "communityId": 19977,
+    "name": "Spirit of the North"
+  },
+  {
+    "communityId": 52140,
+    "name": "Star Wars Outlaws"
+  },
+  {
+    "communityId": 51819,
+    "name": "Starfield"
+  },
+  {
+    "communityId": 51866,
+    "name": "Storage Hustle"
+  },
+  {
+    "communityId": 51820,
+    "name": "Sunkenland"
+  },
+  {
+    "communityId": 49325,
+    "name": "Supraland"
+  },
+  {
+    "communityId": 51924,
+    "name": "Taxi Rush: Prologue"
+  },
+  {
+    "communityId": 51805,
+    "name": "TEKKEN 8 Ultimate Edition"
+  },
+  {
+    "communityId": 52143,
+    "name": "The First Berserker Khazan"
+  },
+  {
+    "communityId": 39048,
+    "name": "The Long Dark"
+  },
+  {
+    "communityId": 51770,
+    "name": "The Outlast Trials"
+  },
+  {
+    "communityId": 51858,
+    "name": "The Walking Dead: Destinies"
+  },
+  {
+    "communityId": 51826,
+    "name": "Thief Simulator 2"
+  },
+  {
+    "communityId": 51873,
+    "name": "Tom Clancy’s Rainbow Six® Extraction"
+  },
+  {
+    "communityId": 52135,
+    "name": "Total War: WARHAMMER"
+  },
+  {
+    "communityId": 40476,
+    "name": "Totally Reliable Delivery Service"
+  },
+  {
+    "communityId": 51922,
+    "name": "TRAIL OUT"
+  },
+  {
+    "communityId": 51786,
+    "name": "Trepang2"
+  },
+  {
+    "communityId": 26813,
+    "name": "Tribes of Midgard"
+  },
+  {
+    "communityId": 52141,
+    "name": "Two Point Museum"
+  },
+  {
+    "communityId": 23130,
+    "name": "Ultimate Custom Night"
+  },
+  {
+    "communityId": 51771,
+    "name": "Undisputed"
+  },
+  {
+    "communityId": 1753,
+    "name": "Unravel Two"
+  },
+  {
+    "communityId": 52139,
+    "name": "Vampire Survivors"
+  },
+  {
+    "communityId": 44415,
+    "name": "Viscera Cleanup Detail"
+  },
+  {
+    "communityId": 17298,
+    "name": "War Thunder"
+  },
+  {
+    "communityId": 52134,
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters"
+  },
+  {
+    "communityId": 12562,
+    "name": "Warhammer: Vermintide 2"
+  },
+  {
+    "communityId": 51736,
+    "name": "Warlander"
+  },
+  {
+    "communityId": 51890,
+    "name": "WE ARE FOOTBALL 2024"
+  },
+  {
+    "communityId": 52136,
+    "name": "Windrose"
+  },
+  {
+    "communityId": 51878,
+    "name": "Winter Survival"
+  },
+  {
+    "communityId": 44736,
+    "name": "Wolfenstein: The Old Blood"
+  },
+  {
+    "communityId": 2321,
+    "name": "World of Warships"
+  },
+  {
+    "communityId": 52133,
+    "name": "WUCHANG: Fallen Feathers"
+  },
+  {
+    "communityId": 52098,
+    "name": "Wuthering Waves (Mobile Game)"
+  },
+  {
+    "communityId": 46465,
+    "name": "WWE 2K BATTLEGROUNDS"
+  },
+  {
+    "communityId": 50907,
+    "name": "WWE 2K19"
+  },
+  {
+    "communityId": 33227,
+    "name": "WWE 2K20"
+  },
+  {
+    "communityId": 51749,
+    "name": "WWE 2K23 "
+  },
+  {
+    "communityId": 51865,
+    "name": "WWE 2K24"
+  },
+  {
+    "communityId": 52009,
+    "name": "WWE 2K25"
+  },
+  {
+    "communityId": 51688,
+    "name": "WWE2K22"
+  },
+  {
+    "communityId": 52112,
+    "name": "Yakuza Kiwami 3 & Dark Ties"
+  },
+  {
+    "communityId": 51935,
+    "name": "Zenless Zone Zero"
+  },
+  {
+    "communityId": 52097,
+    "name": "Zenless Zone Zero (Mobile Game)"
+  },
+  {
+    "communityId": 45101,
+    "name": "Zombie Army Trilogy"
+  }
+]

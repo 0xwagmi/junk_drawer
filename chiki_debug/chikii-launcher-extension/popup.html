@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: system-ui, sans-serif; width: 480px; padding: 10px; background: #1e1e1e; color: #e8e8e8; }
+  h1 { font-size: 14px; margin: 0 0 8px; display: flex; justify-content: space-between; align-items: baseline; color: #f0f0f0; }
+  h1 span { font-size: 11px; font-weight: normal; color: #9a9a9a; }
+  input[type=text] { width: 100%; box-sizing: border-box; padding: 6px; font-size: 13px; margin-bottom: 6px; background: #2b2b2b; color: #e8e8e8; border: 1px solid #444; border-radius: 4px; }
+  input[type=text]::placeholder { color: #888; }
+  input[type=text]:focus { outline: none; border-color: #666; }
+  #results { max-height: 480px; overflow-y: scroll; border: 1px solid #3a3a3a; border-radius: 4px; background: #242424; }
+  .row { display: flex; justify-content: space-between; align-items: center; padding: 5px 8px; border-bottom: 1px solid #303030; font-size: 13px; cursor: pointer; }
+  .row:last-child { border-bottom: none; }
+  .row:hover { background: #2f2f2f; }
+  .row.missing:hover { background: #4a2422; }
+  .row button { font-size: 12px; padding: 3px 8px; cursor: pointer; background: #333; color: #e8e8e8; border: 1px solid #555; border-radius: 3px; }
+  .row button:hover { background: #3d3d3d; }
+  #filters { display: flex; align-items: center; gap: 6px; font-size: 12px; margin-bottom: 6px; color: #ccc; }
+  .row.missing { background: #3a1f1f; border-left: 3px solid #e05a4f; border-bottom-color: #4a2c2a; }
+  .row.missing .name { color: #ff8a80; }
+  .row .badge { font-size: 10px; color: #ff8a80; border: 1px solid #e05a4f; border-radius: 3px; padding: 0 4px; margin-left: 6px; }
+  #status { font-size: 11px; color: #9a9a9a; margin: 6px 0; min-height: 14px; }
+  #breakdown { font-size: 11px; color: #9a9a9a; margin-bottom: 4px; }
+  #manual { display: flex; gap: 6px; margin-top: 10px; border-top: 1px solid #3a3a3a; padding-top: 8px; }
+  #manual input { flex: 1; margin: 0; }
+  #refresh { width: 100%; margin-top: 8px; padding: 6px; cursor: pointer; background: #333; color: #e8e8e8; border: 1px solid #555; border-radius: 4px; }
+  #refresh:hover { background: #3d3d3d; }
+  #refresh:disabled { opacity: 0.6; cursor: default; }
+</style>
+</head>
+<body>
+  <h1>Chikii Game Launcher <span id="count"></span></h1>
+  <div id="breakdown"></div>
+  <input type="text" id="search" placeholder="Search cached catalog by name... (Enter = open top result)">
+  <div id="filters">
+    <label><input type="checkbox" id="missingOnly"> Missing from website only</label>
+  </div>
+  <div id="results"></div>
+  <div id="status"></div>
+  <button id="refresh">Refresh catalog (crawl live site)</button>
+  <div id="manual">
+    <input type="text" id="manualId" placeholder="communityId (manual)">
+    <button id="manualOpen">Open</button>
+  </div>
+  <script src="missing_games_seed.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
